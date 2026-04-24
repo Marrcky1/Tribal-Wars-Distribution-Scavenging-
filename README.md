@@ -6,3 +6,6 @@ Scriptul detectează trupele disponibile, verifică ce niveluri de curățare su
 
 ```text
 Extremă → Mare → Medie → Mică
+
+
+<img width="348" height="532" alt="image" src="https://github.com/user-attachments/assets/4f1338cc-d713-4521-8e46-2dc3e782cd85" />
